@@ -1,0 +1,10 @@
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\bin\Debug\AdonetDemo.exe.config
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\bin\Debug\AdonetDemo.exe
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\bin\Debug\AdonetDemo.pdb
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\obj\Debug\AdonetDemo.csproj.AssemblyReference.cache
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\obj\Debug\AdonetDemo.Form1.resources
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\obj\Debug\AdonetDemo.Properties.Resources.resources
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\obj\Debug\AdonetDemo.csproj.GenerateResource.cache
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\obj\Debug\AdonetDemo.csproj.CoreCompileInputs.cache
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\obj\Debug\AdonetDemo.exe
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\AdonetDemo\obj\Debug\AdonetDemo.pdb
